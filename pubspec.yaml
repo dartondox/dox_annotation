@@ -1,11 +1,11 @@
 name: dox_annotation
 description: Dox annotation for dox framework
-version: 0.0.1
+version: 0.0.3
 repository: https://github.com/necessarylion/dox_annotation
 homepage: https://dartondox.dev
 
 environment:
-  sdk: ^3.0.0
+  sdk: '>=2.19.0 <3.1.0'
 
 
 dev_dependencies:
