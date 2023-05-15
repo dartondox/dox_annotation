@@ -4,5 +4,10 @@ class DoxModel {
   final String? createdAt;
   final String? updatedAt;
 
-  const DoxModel({this.table, this.primaryKey, this.createdAt, this.updatedAt});
+  const DoxModel({
+    this.table,
+    this.primaryKey,
+    this.createdAt = 'created_at',
+    this.updatedAt = 'updated_at',
+  });
 }
