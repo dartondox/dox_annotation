@@ -1,7 +1,7 @@
 name: dox_annotation
 description: Dox annotation for dox framework
 version: 0.0.7
-repository: https://github.com/necessarylion/dox_annotation
+repository: https://github.com/dartondox/dox_annotation
 homepage: https://dartondox.dev
 
 environment:
